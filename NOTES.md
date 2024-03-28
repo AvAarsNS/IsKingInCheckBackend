@@ -47,3 +47,6 @@
 
 - ✅ Fix the E2E test to assert that the king is not in check
 - ✅ Create a second E2E test where the king is in check
+
+- ✅ Test E2E with the front end
+    - ⛔️ The UI does not correctly show if the king is in check
