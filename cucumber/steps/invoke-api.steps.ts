@@ -26,7 +26,7 @@ defineFeature(feature, (test) => {
     });
 
     and("the rook is placed at A5", () => {
-      expect(response.chessboard[4][1]).toEqual("R");
+      expect(response.chessboard[4][0]).toEqual("R");
     });
 
     and(
