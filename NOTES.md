@@ -50,3 +50,7 @@
 
 - ✅ Test E2E with the front end
     - ⛔️ The UI does not correctly show if the king is in check
+
+## 🍅 5:
+- Fix project so it builds
+- Start new repo with nextJS (including typescript, docker etc)
